@@ -53,52 +53,57 @@ Aspiring Python Developer | B.Tech CSE Student at **Bengal College of Engineerin
 
 ## 🚀 Projects
 
-**Rotom Bot** \
+### [Rotom Bot](https://github.com/the-pokehub/Rotom-Bot)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) \
-A comprehensive discord server management bot built with discord.py that caters to communities.
+A comprehensive Discord server management bot built with discord.py.
 
 - **Tournament Management**: Automates tournament registration and management.
-- **Role & League Handling**: Dynamically manages user roles and leagues.
-- **Profanity Filter & Moderation**: Filters offensive language and manages server moderation.
+- **Role & League Handling**: Manages user roles and leagues.
+- **Profanity Filter & Moderation**: Filters offensive language and manages moderation.
 - **Utility Features**: Offers Pokédex data, competitive set recommendations, and more.
 - **Dictionaries & Translation**: Integrates Urban Dictionary, word definitions, and translation features.
 
-**Private Chat Application** \
+### [Private Chat Application](https://github.com/N00BSC00B/Private-Chat)
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-FF6F00?style=for-the-badge&logo=websockets&logoColor=white) \
 A real-time secure chat application designed using Flask and WebSockets.
 
-- **Encryption**: Implements RSA encryption to ensure message privacy.
-- **Media Sharing**: Supports image, video, and file sharing within chat rooms.
-- **Responsive Design**: Fully responsive across devices with a user-friendly interface.
+- **Encryption**: Implements RSA encryption for message privacy.
+- **Media Sharing**: Supports image, video, and file sharing.
+- **Responsive Design**: Fully responsive across devices.
 
-**Udemy Free Course Grabber** \
+### [Udemy Free Course Grabber](https://github.com/N00BSC00B/Udemy-Free-Course-Grabber)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) \
 A Windows-based tool that automates the discovery and download of free Udemy courses.
 
 - **Automated Scraping**: Extracts free course details from answersq.com.
 - **Graphical Interface**: User-friendly GUI with search and filter options.
-- **Standalone Application**: Requires no external dependencies for operation.
+- **Standalone Application**: Requires no external dependencies.
 
-**Personal Assistant Application** \
+### Personal Assistant Application
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white) \
 A voice-controlled virtual assistant built with Python and PyQt6.
 
-- **Voice Commands**: Supports application control, screen recording, and screenshot.
-- **Productivity Features**: Provides weather updates, system control, and integrated task automation.
-- **Libraries Used**: Utilized pvporcupine, pvrecorder, and pyautogui for advanced voice recognition and automation.
+- **Voice Commands**: Supports application control, screen recording, and screenshots.
+- **Productivity Features**: Provides weather updates, system control, and task automation.
+- **Libraries Used**: Utilizes pvporcupine, pvrecorder, and pyautogui.
 
-**Full-Stack Web Developer: Flask Application Development** \
+### [Full-Stack Web Developer: Flask Application Development](https://github.com/assistantdost/Web)
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=fastapi&logoColor=white) \
-A dynamic web application designed with Flask that features advanced user management.
+A dynamic web application designed with Flask featuring advanced user management.
 
 - **Secure Login & Authentication**: Implements OTP-based password recovery and secure login.
-- **Dynamic Routing**: Utilizes Jinja templates for interactive responsive pages.
-- **API Integration**: Integrates external JSON APIs to enhance the user experience.
+- **Dynamic Routing**: Utilizes Jinja templates for interactive pages.
+- **API Integration**: Integrates external JSON APIs.
 
 ## 📈 GitHub Stats
 
