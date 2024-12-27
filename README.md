@@ -48,9 +48,15 @@ Aspiring Python Developer | B.Tech CSE Student at **Bengal College of Engineerin
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=N00BSC00B&show_icons=true&theme=tokyonight" width="700"> \
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N00BSC00B&layout=compact&theme=tokyonight" width="700"> \
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=N00BSC00B&theme=tokyonight" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=N00BSC00B&show_icons=true&theme=tokyonight" width="500"> \
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N00BSC00B&layout=compact&theme=tokyonight" width="500"> \
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=N00BSC00B&theme=tokyonight" width="500">
+
+<br>
+
+## 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=N00BSC00B&theme=tokyonight&row=5&column=5" alt="GitHub Trophies" width="500">
 
 <br>
 
