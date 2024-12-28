@@ -2,7 +2,7 @@
 
 <!-- ![Profile Banner](https://media.licdn.com/dms/image/v2/D5616AQEqjT4pZ2YnJA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735311186011?e=1740614400&v=beta&t=7TZkiwGdzZbzquSMkyY9MN-K1dm78KSB9L4a2MZI-fs) -->
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEqjT4pZ2YnJA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735311186011?e=1740614400&v=beta&t=7TZkiwGdzZbzquSMkyY9MN-K1dm78KSB9L4a2MZI-fs" width="700">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEqjT4pZ2YnJA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735311186011?e=1740614400&v=beta&t=7TZkiwGdzZbzquSMkyY9MN-K1dm78KSB9L4a2MZI-fs" width="675">
 
 Aspiring Python Developer | B.Tech CSE Student at **Bengal College of Engineering and Technology (BCET)** \
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-barma-ab0973289/)
@@ -107,17 +107,17 @@ A dynamic web application designed with Flask featuring advanced user management
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=N00BSC00B&show_icons=true&theme=radical" width="400"> \
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N00BSC00B&layout=compact&theme=radical" width="400"> \
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=N00BSC00B&theme=radical" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=N00BSC00B&show_icons=true&theme=radical" width="500"> \
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N00BSC00B&layout=compact&theme=radical" width="500"> \
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=N00BSC00B&theme=radical" width="500">
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=N00BSC00B&theme=radical&row=5&column=5" alt="GitHub Trophies" width="400">
+<img src="https://github-profile-trophy.vercel.app/?username=N00BSC00B&theme=radical&row=2&column=4" alt="GitHub Trophies" width="500">
 
 ## 📈 LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/barma_sayan?theme=radical&font=Lexend&ext=heatmap" alt="LeetCode Stats" width="400">
+<img src="https://leetcard.jacoblin.cool/barma_sayan?theme=radical&font=Lexend&ext=heatmap" alt="LeetCode Stats" width="500">
 
 ## 📚 Education
 
