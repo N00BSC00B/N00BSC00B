@@ -2,7 +2,7 @@
 
 <!-- ![Profile Banner](https://media.licdn.com/dms/image/v2/D5616AQEqjT4pZ2YnJA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735311186011?e=1740614400&v=beta&t=7TZkiwGdzZbzquSMkyY9MN-K1dm78KSB9L4a2MZI-fs) -->
 
-<img src="https://media.discordapp.net/attachments/770846450896470049/1353727437527318608/Python_Developer.png?ex=67e2b46c&is=67e162ec&hm=9f1293160fc7473916c3475a171d382eccd97eed1515ea7716937095b2e9c51e&=&format=webp&quality=lossless&width=1860&height=465" width="675">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEqjT4pZ2YnJA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735311186011?e=1755129600&v=beta&t=JW61-IAU70qOuAthyE52glTSCIgQSfHOMnypRnTeXZM&height=465" width="675">
 
 Aspiring Python Developer | B.Tech CSE Student at **Bengal College of Engineering and Technology (BCET)** \
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-barma-ab0973289/)
