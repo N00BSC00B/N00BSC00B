@@ -18,7 +18,7 @@ Aspiring Python Developer | B.Tech CSE Student at **Bengal College of Engineerin
 ## 🔮 About Me
 
 - 📚 **B.Tech in Computer Science** | MAKAUT (Expected: June 2026)
-- 📊 CGPA: 7.3 (till 4th Semester)
+- 📊 CGPA: 7.3 (till 5th Semester)
 - ⚙️ Passionate about **Software Development** and **Machine Learning**
 - 🤖 Building **Discord Bots**, **Full-stack Applications**, and **AI-driven Tools**
 - 🛠️ Love working with **Python**, **Flask**, and **TensorFlow**
