@@ -1,16 +1,24 @@
 # Hi there! I'm Sayan Barma 👋
 
-<!-- ![Profile Banner](https://media.licdn.com/dms/image/v2/D5616AQEqjT4pZ2YnJA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735311186011?e=1740614400&v=beta&t=7TZkiwGdzZbzquSMkyY9MN-K1dm78KSB9L4a2MZI-fs) -->
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/856187354536214578/1397454335931322378/5AzlucY.jpeg?ex=6881c845&is=688076c5&hm=f5e35f1fc1a5da928eda09a7ada8e3cacb6ac4261e65185f92b2efb3cb773bb3&" width="800" alt="Profile Banner">
+</div>
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEqjT4pZ2YnJA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735311186011?e=1755129600&v=beta&t=JW61-IAU70qOuAthyE52glTSCIgQSfHOMnypRnTeXZM&height=465" width="675">
+<div align="center">
+  <h3>Python Developer | Machine Learning & IoT Enthusiast | Building Scalable Backend & Embedded Solutions</h3>
+</div>
 
-Aspiring Python Developer | B.Tech CSE Student at **Bengal College of Engineering and Technology (BCET)** \
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-barma-ab0973289/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/N00BSC00B)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sayanbarma2004@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/barma_sayan/)
-![GitHub Followers](https://img.shields.io/github/followers/N00BSC00B?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=N00BSC00B&color=blueviolet)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-barma-ab0973289/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N00BSC00B)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayanbarma2004@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/barma_sayan/)
+
+![GitHub Followers](https://img.shields.io/github/followers/N00BSC00B?style=for-the-badge&logo=github&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=N00BSC00B&color=blueviolet&style=for-the-badge)
+
+</div>
 
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/yourusername) -->
@@ -18,10 +26,11 @@ Aspiring Python Developer | B.Tech CSE Student at **Bengal College of Engineerin
 ## 🔮 About Me
 
 - 📚 **B.Tech in Computer Science** | MAKAUT (Expected: June 2026)
-- 📊 CGPA: 7.3 (till 5th Semester)
+- 📊 CGPA: 7.4 (till 6th Semester)
 - ⚙️ Passionate about **Software Development** and **Machine Learning**
 - 🤖 Building **Discord Bots**, **Full-stack Applications**, and **AI-driven Tools**
 - 🛠️ Love working with **Python**, **Flask**, and **TensorFlow**
+- 🌐 **Portfolio**: [sayan-barma-portfolio.netlify.app](https://sayan-barma-portfolio.netlify.app/)
 
 ## 🔧 Skills
 
@@ -51,73 +60,71 @@ Aspiring Python Developer | B.Tech CSE Student at **Bengal College of Engineerin
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### [Rotom Bot](https://github.com/the-pokehub/Rotom-Bot)
+### [JobiPilot: AI-Powered Job Application Automation](https://youtu.be/okH0C4mGj4c)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) \
-A comprehensive Discord server management bot built with discord.py.
+![Automation](https://img.shields.io/badge/Automation-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
+![AI](https://img.shields.io/badge/AI-4ECDC4?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-- **Tournament Management**: Automates tournament registration and management.
-- **Role & League Handling**: Manages user roles and leagues.
-- **Profanity Filter & Moderation**: Filters offensive language and manages moderation.
-- **Utility Features**: Offers Pokédex data, competitive set recommendations, and more.
-- **Dictionaries & Translation**: Integrates Urban Dictionary, word definitions, and translation features.
+An automated n8n workflow that builds a daily job application pipeline from multiple sources using AI.
 
-### [Private Chat Application](https://github.com/N00BSC00B/Private-Chat)
+- **Smart Job Matching**: Uses Google's Gemini 2.5 Pro to analyze jobs against personal resume
+- **Automated Applications**: Generates tailored cover letters and personalizes LaTeX resumes
+- **Multi-Source Integration**: Fetches from RSS feeds (Himalayas, Remotive, WWR) and JSearch API
+- **Discord Integration**: Sends completion notifications with curated job listings
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-FF6F00?style=for-the-badge&logo=websockets&logoColor=white) \
-A real-time secure chat application designed using Flask and WebSockets.
+### [DCC Integration with Blender](https://github.com/N00BSC00B/DCC-Integration-with-Blender)
 
-- **Encryption**: Implements RSA encryption for message privacy.
-- **Media Sharing**: Supports image, video, and file sharing.
-- **Responsive Design**: Fully responsive across devices.
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-### [Udemy Free Course Grabber](https://github.com/N00BSC00B/Udemy-Free-Course-Grabber)
+Integrates Blender with FastAPI server and PyQt GUI for seamless inventory and object management.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) \
-A Windows-based tool that automates the discovery and download of free Udemy courses.
+- **Blender Plugin**: Direct inventory display and object transformation in Blender's sidebar
+- **API Integration**: FastAPI server for inventory management and transformation requests
+- **Desktop GUI**: PyQt application with search, pagination, and real-time updates
 
-- **Automated Scraping**: Extracts free course details from answersq.com.
-- **Graphical Interface**: User-friendly GUI with search and filter options.
-- **Standalone Application**: Requires no external dependencies.
+### [Jhagmag LED Controller](https://github.com/N00BSC00B/Jhagmag-LED-Controller)
 
-### Personal Assistant Application
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white) \
-A voice-controlled virtual assistant built with Python and PyQt6.
+Arduino-based LED controller with Bluetooth control and audio visualization capabilities.
 
-- **Voice Commands**: Supports application control, screen recording, and screenshots.
-- **Productivity Features**: Provides weather updates, system control, and task automation.
-- **Libraries Used**: Utilizes pvporcupine, pvrecorder, and pyautogui.
+- **Wireless Control**: HC-05 Bluetooth module with PyQt6 cross-platform GUI
+- **Advanced Effects**: Real-time audio visualization and screen color detection
+- **Multiple Patterns**: Solid, Fade, Cycle, Rainbow, Breathing, and Random effects
 
-### [Full-Stack Web Developer: Flask Application Development](https://github.com/assistantdost/Web)
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=fastapi&logoColor=white) \
-A dynamic web application designed with Flask featuring advanced user management.
-
-- **Secure Login & Authentication**: Implements OTP-based password recovery and secure login.
-- **Dynamic Routing**: Utilizes Jinja templates for interactive pages.
-- **API Integration**: Integrates external JSON APIs.
+### _All my other Projects are in the Repositories Section._
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=N00BSC00B&show_icons=true&theme=radical" width="500"> \
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N00BSC00B&layout=compact&theme=radical" width="500"> \
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=N00BSC00B&theme=radical" width="500">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=N00BSC00B&show_icons=true&theme=radical&hide_border=true&count_private=true" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N00BSC00B&theme=radical&hide_border=true" width="420" />
+</p>
 
-## 🏆 Trophies
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N00BSC00B&layout=compact&theme=radical&hide_border=true&langs_count=8" width="420" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N00BSC00B&theme=redical&hide_border=true&custom_title=Contribution%20Graph" width="420" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=N00BSC00B&theme=radical&row=2&column=4" alt="GitHub Trophies" width="500">
+## 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=N00BSC00B&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=5" alt="GitHub Trophies" width="860" />
+</p>
 
 ## 📈 LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/barma_sayan?theme=radical&font=Lexend&ext=heatmap" alt="LeetCode Stats" width="500">
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/barma_sayan?theme=radical&font=Lexend&ext=heatmap" alt="LeetCode Stats" width="420" />
+</p>
 
 ## 📚 Education
 
@@ -128,26 +135,32 @@ A dynamic web application designed with Flask featuring advanced user management
 - **Secondary School Certificate (SSC)**  
   Kendriya Vidyalaya No. 2, Delhi Cantt (93%)
 
-## 🏅 Leadership & Organizational Roles
+## 🏅 Leadership & Experience
 
-**Python Lead, Google Developer Group (GDG) on Campus, BCET**  
+### 🐍 Python Team Lead - Google Developer Groups on Campus, BCET
+
+![GDG](https://img.shields.io/badge/GDG-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 _September 2024 – Present_
 
-- Lead Python-related initiatives and workshops under the GDG on Campus program.
-- Collaborate with peers and mentors to bring industry experts for guest lectures and hands-on sessions.
-- Promote GDG events and initiatives to strengthen the tech community within the campus.
+- Leading Python-related workshops and projects for the developer community
+- Collaborating with industry experts to organize guest lectures and hands-on sessions
+- Building and strengthening the tech community within campus
 
-**Organiser, CyberCell, Bengal College of Engineering & Technology (BCET), Durgapur**  
-_July 2023 - Present_
+### 🔐 Mentor - CyberCell, Bengal College of Engineering & Technology
 
-- Coordinate and manage coding events, workshops, and seminars.
-- Foster a strong coding environment and community among students.
+_July 2025 - Present_
 
-**Coordinator, Entrepreneurship Development Cell (EDC), BCET, Durgapur**  
-_April 2023 - Present_
+- Mentoring students in cybersecurity and competitive programming
+- Organizing technical workshops and hackathons
 
-- Organize events, workshops, and seminars focused on entrepreneurship and innovation.
-- Facilitate opportunities for students to explore and develop entrepreneurial skills.
+### Organizer - CyberCell, BCET _(Previous Role)_
+
+_July 2024 - July 2025_
+
+- Coordinated coding events, workshops, and seminars
+- Fostered a strong coding environment among students
 
 ## 🎶 Hobbies & Interests
 
@@ -155,10 +168,19 @@ _April 2023 - Present_
 ![Gaming](https://img.shields.io/badge/Gaming-7289DA?style=for-the-badge&logo=gamepad&logoColor=white)
 ![Anime & Movies](https://img.shields.io/badge/Anime%20&%20Movies-FF6F00?style=for-the-badge&logo=tv&logoColor=white)
 
-- 👨‍💻 **Coding**: Passionate about solving problems and building projects.
-- 🎮 **Gaming**: Enjoy playing video games in my free time.
-- 📽️ **Watching Anime & Movies**: Love to unwind by watching anime and movies.
+- 👨‍💻 **Coding**: Passionate about solving complex problems and building innovative solutions
+- 🎮 **Gaming**: Enjoy exploring virtual worlds and competitive gaming
+- 📽️ **Watching Anime & Movies**: Love captivating stories and stunning animations
 
 ---
 
-### Thanks for stopping by! Feel free to reach out and collaborate! 🚀
+### ✨ Thanks for stopping by! Feel free to reach out and collaborate! 🚀
+
+<p align="left">
+  <a href="https://sayan-barma-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:sayanbarma2004@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Connect-4285F4?style=for-the-badge&logo=handshake&logoColor=white" alt="Let's Connect" />
+  </a>
+</p>
