@@ -1,7 +1,7 @@
 # Hi there! I'm Sayan Barma 👋
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/856187354536214578/1397454335931322378/5AzlucY.jpeg?ex=6881c845&is=688076c5&hm=f5e35f1fc1a5da928eda09a7ada8e3cacb6ac4261e65185f92b2efb3cb773bb3&" width="800" alt="Profile Banner">
+  <img src="assets/banner.jpeg" width="800" alt="Profile Banner">
 </div>
 
 <div align="center">
