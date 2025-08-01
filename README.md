@@ -105,25 +105,19 @@ Arduino-based LED controller with Bluetooth control and audio visualization capa
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=N00BSC00B&show_icons=true&theme=radical&hide_border=true&count_private=true" width="420" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N00BSC00B&theme=radical&hide_border=true" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=N00BSC00B&show_icons=true&theme=react&count_private=true" width="420" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N00BSC00B&layout=compact&theme=react&langs_count=10&hide_progress=true" width="420" height="200" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N00BSC00B&layout=compact&theme=radical&hide_border=true&langs_count=8" width="420" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N00BSC00B&theme=redical&hide_border=true&custom_title=Contribution%20Graph" width="420" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=N00BSC00B&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=5" alt="GitHub Trophies" width="860" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=N00BSC00B&theme=react" width="420" height="200" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N00BSC00B&theme=react&custom_title=Contribution%20Graph" width="420" height="200" />
 </p>
 
 ## 📈 LeetCode Stats
 
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/barma_sayan?theme=radical&font=Lexend&ext=heatmap" alt="LeetCode Stats" width="420" />
+  <img src="https://leetcard.jacoblin.cool/barma_sayan?theme=transparent&font=Lexend&show_rank=true" alt="LeetCode Stats" width="420" />
 </p>
 
 ## 📚 Education
